@@ -1,0 +1,12 @@
+[package]
+name = "rust-dot-move"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.18.1"
+ndarray = "0.15"
+kd-tree = "0.4"
+typenum = "1.14"
